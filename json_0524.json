@@ -50,7 +50,7 @@
       "gender": 2,
       "age": 31,
       "country": "USA",
-      "status": "Online",
+      "status": "Offline",
       "callCoins": 150,
       "unit": "min",
       "videoMapPaths": [
@@ -108,7 +108,7 @@
       "gender": 1,
       "age": 3,
       "country": "US",
-      "status": "Online",
+      "status": "Offline",
       "callCoins": 150,
       "unit": "min",
       "videoMapPaths": [
@@ -147,7 +147,7 @@
       "gender": 1,
       "age": 28,
       "country": "USA",
-      "status": "Online",
+      "status": "Offline",
       "callCoins": 90,
       "unit": "min",
       "videoMapPaths": [],
